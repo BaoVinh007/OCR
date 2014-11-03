@@ -1,0 +1,32 @@
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\bin\Debug\OCRTest.exe.config
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\bin\Debug\OCRTest.exe
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\bin\Debug\OCRTest.pdb
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\bin\Debug\Puma.Net.dll
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\bin\Debug\puma.interop.dll
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\obj\Debug\MainWindow.baml
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\obj\Debug\MainWindow.g.cs
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\obj\Debug\App.g.cs
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\obj\Debug\OCRTest_MarkupCompile.cache
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\obj\Debug\OCRTest.g.resources
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\obj\Debug\OCRTest.Properties.Resources.resources
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\obj\Debug\OCRTest.csproj.GenerateResource.Cache
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\obj\Debug\OCRTest.exe
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\OCRTest\OCRTest\obj\Debug\OCRTest.pdb
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\OCRTest\OCRTest\obj\Debug\OCRTest.csprojResolveAssemblyReference.cache
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\bin\Debug\OCRTest.exe.config
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\obj\Debug\OCRTest.exe
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\obj\Debug\OCRTest.pdb
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\bin\Debug\OCRTest.exe
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\bin\Debug\OCRTest.pdb
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\bin\Debug\puma.interop.dll
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\obj\Debug\OCRTest.csprojResolveAssemblyReference.cache
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\obj\Debug\MainWindow.baml
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\obj\Debug\MainWindow.g.cs
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\obj\Debug\App.g.cs
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\obj\Debug\OCRTest_MarkupCompile.cache
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\obj\Debug\OCRTest.g.resources
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\obj\Debug\OCRTest.Properties.Resources.resources
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\Document Image Analysis Projects\OCRTest\OCRTest\obj\Debug\OCRTest.csproj.GenerateResource.Cache
+C:\Users\VinhNguyen\Documents\GitHub\OCR\OCRTest\bin\Debug\OCRTest.exe.config
+C:\Users\VinhNguyen\Documents\GitHub\OCR\OCRTest\obj\Debug\OCRTest.exe
+C:\Users\VinhNguyen\Documents\GitHub\OCR\OCRTest\obj\Debug\OCRTest.pdb

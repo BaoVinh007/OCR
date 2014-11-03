@@ -1,0 +1,16 @@
+﻿<Window x:Class="OCRTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="bt_open" Content="Select Source" HorizontalAlignment="Left" Margin="389,10,0,0" VerticalAlignment="Top" Width="119" Height="40" Click="bt_open_Click"/>
+        <TextBox x:Name="txt_Path" HorizontalAlignment="Left" Height="40" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="374"/>
+        <Button x:Name="bt_read" Content="Read to Screen" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" Width="119" Height="40" Click="bt_read_Click"/>
+        <TextBox x:Name="txt_Destination" HorizontalAlignment="Left" Height="40" Margin="10,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="374" Visibility="Hidden"/>
+        <Button x:Name="bt_openfile" Content="Select Destination" HorizontalAlignment="Left" Margin="389,100,0,0" VerticalAlignment="Top" Width="119" Height="40" Click="bt_openfile_Click" Visibility="Hidden"/>
+        <Button x:Name="bt_readToFile" Content="Read to File" HorizontalAlignment="Left" Margin="10,145,0,0" VerticalAlignment="Top" Width="119" Height="40" Click="bt_readToFile_Click" Visibility="Hidden"/>
+        <TextBlock x:Name="txt_Display" HorizontalAlignment="Left" Margin="10,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="122" Width="498"/>
+        <Label Content="Output:" HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top" Height="40" Width="71"/>
+
+    </Grid>
+</Window>
